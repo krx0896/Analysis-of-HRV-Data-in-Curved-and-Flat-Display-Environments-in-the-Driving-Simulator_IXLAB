@@ -1,2 +1,18 @@
-# Analysis-of-HRV-Data-in-Curved-and-Flat-Display-Environments-in-the-Driving-Simulator_IXLAB
-드라이빙 시뮬레이터를 활용하여 차량 내 평면 디스플레이와 곡률 디스플레이의 안정감 차이 HRV 데이터로 분석하는 실험, IXLAB
+# Project
+### 드라이빙 시뮬레이터를 활용하여 차량 내 평면 디스플레이와 곡률 디스플레이의 안정감 차이 HRV 데이터로 분석하는 실험, IXLAB
+
+# Intro
+### 🗓️ Date 
+Project term : 2023.01.03 ~ </br>
+
+### 실험 소개
+- 운전자가 운전간 차량 디스플레이가 평면 디스플레이일때와 곡률 디스플레이일때의 차이를 보기 위한 A/B test 진행
+
+### 운전 시뮬레이터 장비
+- Forum8 회사의 드라이빙 시뮬레이터 장비와 uc-win/road 소프트웨어 사용
+
+### 측정 장비
+- 아이트래커
+  - 동공 위치와 피로도 계산
+- Polar H10
+  - 스트레스와 연관된 HRV를 분석하여 피로도 계산
